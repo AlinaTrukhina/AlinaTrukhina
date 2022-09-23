@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @AlinaTrukhina
+- 🧑🏼‍💻 I am a student in the Full Stack Software Engineering program at Prime Digital Academy in Minneapolis
 - 👀 I’m interested in learning JavaScript, React, Node.js, and continuing to learn HTML and CSS to become a software engineer
 - 🌱 I’m currently learning JavaScript to learn more of its functionality and be familiar with the tools
 - 💞️ I’m looking to collaborate on building some apps for people with active lifestyles, especially Minnesotans.
