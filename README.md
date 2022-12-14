@@ -5,6 +5,7 @@
 - 🌱 I’m currently learning React and Redux to be able to use more of their functionalities and become familiar with the tools.
 - 💞️ I’m looking to collaborate on building apps for people with active lifestyles, especially Minnesotans.
 - 📫 I can be reached by email at alina.trukhina@gmail.com.
+- See my portfolio ![here](https://alina-trukhina-portfolio.vercel.app/)
 
 <!---
 AlinaTrukhina/AlinaTrukhina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
