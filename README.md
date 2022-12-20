@@ -11,6 +11,6 @@
 AlinaTrukhina/AlinaTrukhina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaTrukhina&show_icons=true&theme=tokyonight)](https://github.com/AlinaTrukhina/github-readme-stats)
+[![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaTrukhina&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/AlinaTrukhina/github-readme-stats)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaTrukhina)](https://github.com/AlinaTrukhina/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaTrukhina&theme=tokyonight&layout=compact)](https://github.com/AlinaTrukhina/github-readme-stats)
