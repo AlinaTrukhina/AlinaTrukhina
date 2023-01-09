@@ -23,3 +23,5 @@ You can click the Preview link to take a look at your changes.
 <a href="https://github.com/AlinaTrukhina/github-readme-stats">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaTrukhina&theme=tokyonight&layout=compact" />
 </a>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=#AlinaTrukhina&theme=dracula&hide_border=true)
