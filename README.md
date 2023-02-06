@@ -17,10 +17,11 @@ You can click the Preview link to take a look at your changes.
 <!-- [![Alina's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlinaTrukhina&hide=issues&show_icons=true&theme=tokyonight)](https://github.com/AlinaTrukhina/github-readme-stats) 
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaTrukhina&theme=tokyonight&layout=compact)](https://github.com/AlinaTrukhina/github-readme-stats) -->
-
+<!-- 
 <a href="https://github.com/AlinaTrukhina/github-readme-stats">
   <img align="center"  height="170px" src="https://github-readme-stats.vercel.app/api?username=AlinaTrukhina&hide=issues&show_icons=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/AlinaTrukhina/github-readme-stats">
   <img align="center" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaTrukhina&theme=tokyonight&layout=compact" />
 </a>
+ -->
